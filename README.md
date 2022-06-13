@@ -8,11 +8,11 @@ The purpose of this analysis is to compare how different play campaigns performe
 
 To perform this analysis, I filtered through various Kickstarter campaigns to find information only on plays. From there, I was able to create comparative information using the outcomes of successful, failed, and canceled plays in relation to when the campaigns were launched. 
 
-![Theater_Outcomes_Vs_Launch_Table](/resources/Theater_Outcomes_vs_Launch_Table.png)
+[Theater_Outcomes_Vs_Launch_Table](/resources/Theater_Outcomes_vs_Launch_Table.png)
 
 To gather more information from the data, I also compared the percentage of outcomes to their funding goals to determine how much the budget affected the outcome of the play. 
 
-![Outcomes_vs_Goals_Table](/resources/Outcomes_vs_Goals_Table.png)
+[Outcomes_vs_Goals_Table](/resources/Outcomes_vs_Goals_Table.png)
 
 ### Challenges
 
@@ -22,13 +22,13 @@ The biggest challenge I faced, I was able to overcome by double-checking and cro
 
 #### Theater Outcomes by Launch Date
 
-![Theater_Outcomes_Vs_Launch_Table](/resources/Theater_Outcomes_vs_Launch_Table.png)
+[Theater_Outcomes_Vs_Launch_Table](/resources/Theater_Outcomes_vs_Launch_Table.png)
 
 The data shows that entertainment from theaters is more successful when launched in the late Spring, early Summer months of May, June, and July, although May will offer the best chance. Additionally, December is shown to yield the lowest probability of launching a successful theater campaign.
 
 #### Outcomes Based on Funding Goals
 
-![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+[Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 The most successful plays had a budget goal set at or below $4999.
 
